@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/7cbefc7c347a8365362a5.jpg">
 </p>
 
-<h4><p align="center"> SHIRO ROBOT </p></h4>
+<h4><p align="center"> ROBOT SHIRO </p></h4>
 
 <p align="center">Shiro Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
 
