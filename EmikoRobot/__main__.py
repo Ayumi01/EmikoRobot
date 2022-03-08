@@ -83,7 +83,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 *Hello {} !*
-✪ I'm an Shiro Robot management bot [✨]()
+✪ I'm an Shiro Robot management bot [✨](https://telegra.ph/file/7cbefc7c347a8365362a5.jpg)
 ────────────────────────
 × *Uptime:* `{}`
 × `{}` *users, across* `{}` *chats.*
