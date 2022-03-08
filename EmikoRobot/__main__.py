@@ -83,7 +83,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 *Hello {} !*
-✪ I'm an Shiro Robot management bot [✨](https://telegra.ph/file/7cbefc7c347a8365362a5.jpg)
+✪ I'm an Sajiku Robot management bot [✨](https://telegra.ph/file/5bd35b926df7a117efd4c.jpg)
 ────────────────────────
 × *Uptime:* `{}`
 × `{}` *users, across* `{}` *chats.*
@@ -93,7 +93,7 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="About Shiro Robot", callback_data="emiko_"),
+        InlineKeyboardButton(text="About Sajiku Robot", callback_data="emiko_"),
     ],
     [
         InlineKeyboardButton(text="Get Help", callback_data="help_back"),
@@ -103,7 +103,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➗ Add Shiro To Your Group ➗", url=f"t.me/{bu}?startgroup=new"),
+            text="➗ Add Sajiku To Your Group ➗", url=f"t.me/{bu}?startgroup=new"),
     ],
 ]
 
